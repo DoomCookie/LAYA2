@@ -1,9 +1,10 @@
 # This is a sample Python script.
-
+from test import foo
 
 #hello world
 
 def print_hi(name):
+    foo("42")
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
