@@ -4,7 +4,7 @@ from test import foo
 #hello world
 
 def print_hi(name):
-    foo("24")
+    foo("13")
     # Use a breakpoint in the code le below to debug your script.
     print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
