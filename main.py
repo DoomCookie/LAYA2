@@ -5,7 +5,7 @@ from test import foo
 
 def print_hi(name):
     foo("13")
-    # Use breakpoint in the code line below to debug your script.
+    # Use a breakpoint in the code le below to debug your script.
     print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
