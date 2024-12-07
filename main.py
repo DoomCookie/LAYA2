@@ -4,9 +4,9 @@ from test import foo
 #hello world
 
 def print_hi(name):
-    foo("42")
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    foo("24")
+    # Use a breakpoint in the code le below to debug your script.
+    print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
